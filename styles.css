@@ -1,12 +1,12 @@
 body{
     background-color: black;
-    padding: 420px;
     font-family: 'Roboto', sans-serif;
 }
 .post{
     background-color: white;
     overflow: hidden;
     max-width: 450px;
+    margin: auto;
     
 }
 
